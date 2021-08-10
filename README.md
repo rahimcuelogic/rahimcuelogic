@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Abdul Rahim Nagori, preferred calling Rahim.
+- 👀 I’m interested in coding and latest technologies.
+- 🌱 I’m currently learning Angular.
+- 💞️ I’m looking to collaborate on anything where I learn something or I can contribute.
+- 📫 How to reach me ... Planning for this...
